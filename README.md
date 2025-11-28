@@ -46,5 +46,14 @@ Git • GitHub • Linux • Bash • Docker  • VS Code • Postman
 - Cybersecurity fundamentals 
 - Algorithms & ICPC problem-solving  
 - AWS Architecture
-  
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: *coming soon*
+- 📧 Email: **jonathanalcides60@gmail.com**
+- 💼 LinkedIn: **<a href="https://www.linkedin.com/in/jonathan-herrera-s/">Jonathan Herrera</a>**
+
 ---
+
+Thanks for visiting my profile! 🚀  
+Always building, always learning.
