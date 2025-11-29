@@ -11,7 +11,7 @@
 
 - 🎓 Computer Science student at **UCA El Salvador**
 - 💻 Python Analyst graduated at KODIGO 
-- 💻 Passionate about **Data**, in Computer Science, and **Cloud Architectures**
+- 👨🏻‍💻 Passionate about **Data** in Computer Science, and **Cloud Architectures**
 - ⚙️ Also passionate in **Algorithms**, **Data Structures**, and **Competitive Programming**
 - 🏆 Participant of **ICPC Regionals 2024** 
 - 🔐 Recently exploring **Cybersecurity**, mainly **Fundamentals** and **Blue Team** concepts
@@ -23,7 +23,7 @@
 ## 🛠️ Technologies & Tools
 
 ### **Languages**
-C++ • Java • JavaScript • TypeScript • Kotlin • Python
+C++ • Java • JavaScript • Kotlin • Python
 
 ### **Web Development**
 - **Frontend:** HTML • CSS • React • Vite  
