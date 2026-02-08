@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/6o5ZkLZ.png" width="100%" alt="Banner"/>
 </p> -->
 <!-- <h1 align="center">Hello World, I'm Jonathan</h1> -->
-<h2 align="center"> Data Scientist • Python Analyst • Algorithms & Cybersecurity Student </h2>
+<h2 align="center"> Data Scientist Jr • Python Analyst • Algorithms & Cybersecurity Student </h2>
 
 ---
 
